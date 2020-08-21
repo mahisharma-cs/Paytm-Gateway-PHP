@@ -7,3 +7,8 @@ Steps are as follows:
  - Create a business account on Paytm.
  - Go to Developers and create Test a Gateway for website.
  
+ # Output will look like this
+ 
+ ![screenshot-1](https://github.com/mahisharma-cs/Paytm-Gateway-PHP/blob/master/Paytm-Gateway-PHP/images/ss1.png)
+ 
+ 
