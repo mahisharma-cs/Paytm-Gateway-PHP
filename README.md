@@ -7,6 +7,12 @@ Steps are as follows:
  - Create a business account on Paytm.
  - Go to Developers and create Test a Gateway for website.
  
+*Step 1 :* Create a business account on Paytm.
+*Step 2 :* Go to https://developer.paytm.com --> after login --> Toggle test button "ON" in menu bar.
+*Step 3 :* In left hand side menu bar, Go to Developer Settings --> API Keys option.
+*Step 4 :* Store Merchant Key and Merchant ID for future use.
+
+ 
  # Output will look like this
  ![screenshot-1](https://github.com/mahisharma-cs/Paytm-Gateway-PHP/blob/master/Paytm-Gateway-PHP/images/ss1.png)
  
